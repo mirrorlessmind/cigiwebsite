@@ -1,0 +1,58 @@
+CIGI MARIA TIPTON
+Phone: (214) 335-6667 | Email: cigi@mirrorlessmind.com | Dallas, TX 75220
+LinkedIn:https://www.linkedin.com/MirrorlessMind 
+
+Combining passion for technology, design and art disciplines to bring more dynamic experience to the team.
+TECHNICAL SKILLS
+Languages: Express, React, Node, JavaScript, ES6+, CSS3, HTML5, MySQL, NoSQL
+Applications GitHub,  Figma, Trello, MongoDB,  VS Code,Handlebars, jQuery, Bootstrap, Mongoose, Materialize
+Office: Microsoft Suite, SalesForce, Quickbooks, Final Cut Pro, DaVinci, Amazon Business, YouTube Channels/Content Creation, Google Analytics  
+Adobe: Photoshop, Premiere, Light Room, Illustrator 
+
+LATEST PROJECT 
+DevVersion  
+Code: https://github.com/mirrorlessmind/DevVersion1  | Deployed: https://devver.herokuapp.com
+Summary: React Social Media Platform for Developers
+Role: Front End, StoryBoard, Project Management
+Tools: React, Socket IO, OAuth, HTML, CSS, JavaScript, jQuery, API, Material UI, Figma, Trello, Photoshop
+
+EXPERIENCE
+
+Freelance Developer								Present	
+US Health 								     		Dallas, TX
+Collaborate with Senior Developer to enhance existing code for Client
+Create Design Templates with Figma for Client’s approval
+Identify and Troubleshoot coding errors
+
+Lead Image Curator/Owner							2016-2021	
+Mirrorless Mind Studio 								Dallas, TX
+Created branding materials: PETA Dallas, TGIFridays, Dallas Mayor Office, etc
+Advanced 5 co-artists to begin their own companies.
+Co-Sponsored Covid Charity Drives by providing services and donations
+Detailed Oriented to ensure the client is always ecstatic with the end result.
+Won 4 awards from Society of Wedding Professionals.
+Voted to the Board as Director of Media & PR for the Society of Wedding Professionals
+
+
+
+McCarthy Advertising								2007-2016
+Communications Manager  						       	Dallas, TX
+
+Determined digital storage needs for backup and remote access for the media 
+Co-created an award winning stop-motion commercial for North Texas Honda.
+Streamlined data flow between the CRM systems within departments. 
+Create training guides and procedures for several departments.
+Trained new employees on the CRM systems and procedures
+Provided both hardware and software IT support for MAC and PC users
+
+During the 9 years at McCarthy, I served in several capacities/titles advancing my skills with new technologies and hands-on training. Becoming a liaison between management, creative sales and IT.
+
+EDUCATION
+Full Stack Web Development – Southern Methodist Univ.		          Dallas, TX
+An immersive coding bootcamp emphasizing both MERN stack, along with MySQL 
+and other emerging technologies.
+
+Part 107 Aviation  Certification – Federal Aviation Association             	Dallas, TX                                                            
+Certification to fly commercial drones in restricted air fields.
+Full Television Production Certification – Dallas iMedia               		Dallas, TX                                                                
+Complete Television Certification involving intense training with lighting, cameras, live editing, live production, set creation and directing. 
